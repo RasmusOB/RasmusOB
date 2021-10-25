@@ -5,6 +5,6 @@
   - rasmus_ob@outlook.com
 
 - Websites:
-  - https://rasmus-busniess.web.app 
+  - https://rob-business.web.app/
   - https://rasmusob.itch.io
 
